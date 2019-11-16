@@ -10,3 +10,4 @@ then right click and run the Register vic32 batch file as administrator to regis
 Use Example.exe to start using the Webcam Host or Viewing exe's 
 it sets up the config file prior to running the View or Host Cam exe's.
 If any other DLL/OCX errors occur then use the all needed files + reg for my VB6 projects.
+The vic32.dll is what captures a users Webcam stream and converts it into images for transfering between peers.
