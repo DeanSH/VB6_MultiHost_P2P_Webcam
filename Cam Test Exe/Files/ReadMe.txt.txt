@@ -1,0 +1,1 @@
+This folder is where temporary images that are created with each cam image capture are stored before transfered to connected viewers, do not delete it.
